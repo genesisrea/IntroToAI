@@ -1,0 +1,4 @@
+# 1. Problem +Stakeholder
+In ISO-certified labs, long term stability monitoring is performed by running a standard on instrumentation to check the instruments health. The monitoring process is usually done manually. Lab technicians drop data into a share folder which then another member would have to open it, review the numbers and then check for trends or out of control events. Often times, this may be difficult as some labs operate with more than 10 instruments and this process is conducted weekly. Because everyone can get busy, this review step can get delayed or skipped. When this happens, instruments can drift out of control without notice which can create compliance issues and can lead to bad data being used by the lab. 
+Stakeholders:
+The people affected by this problem include lab technicians, lab managers, quality managers, and manufacturing operations that rely heavily on instruments giving them reliable data. 
